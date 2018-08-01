@@ -30,5 +30,6 @@
 #### Скриншоты
 
 ![Скриншот 1](./screenshots/pulsargallery/pg-0.png)
-![Скриншот 1](./screenshots/pulsargallery/pg-1.png)
-![Скриншот 1](./screenshots/pulsargallery/pg-2.png)
+![Скриншот 2](./screenshots/pulsargallery/pg-1.png)
+![Скриншот 3](./screenshots/pulsargallery/pg-2.png)
+![Скриншот 4](./screenshots/pulsargallery/pg-3.png)
