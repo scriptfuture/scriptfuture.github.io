@@ -1,0 +1,5 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+
+<img src="{path}images/r10.png" style="margin-top:15px;margin-left:20px;position:absolute;">
+
+</div>

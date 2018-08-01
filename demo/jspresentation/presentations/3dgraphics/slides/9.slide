@@ -1,0 +1,19 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+
+<img src="{path}images/r9.png" style="margin-top:100px;margin-left:0px;position:absolute;">
+
+<div class="padding-jsp" style="color: white;">
+
+<span style="font-size:28px;padding-left:30px;color:#ffff00">Фрактальная графика</span><br>
+<img src="{path}images/r2.png" style="margin-top:25px;position:absolute;padding-left:30px;">
+
+<div style="margin-top:40px;margin-left:80px;position:absolute;font-size:12px;">
+<ul>
+<li>Треугольник Серпинского
+ </li>
+ <li>Снежинка Коха
+ </li>
+</ul>
+</div>
+
+</div></div>

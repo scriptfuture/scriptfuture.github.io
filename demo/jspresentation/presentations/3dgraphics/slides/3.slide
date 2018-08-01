@@ -1,0 +1,10 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+
+<img src="{path}images/r4.png" style="margin-top:140px;position:absolute;">
+
+<div class="padding-jsp" style="color: white;">
+
+<span style="font-size:32px;padding-left:30px;">Трёхмерная графика</span><br>
+<img src="{path}images/r2.png" style="margin-top:25px;position:absolute;padding-left:30px;">
+
+</div></div>

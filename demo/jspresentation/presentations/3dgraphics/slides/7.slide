@@ -1,0 +1,8 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+
+<img src="{path}images/r7.png" style="margin-top:50px;margin-left:110px;position:absolute;z-index:30;">
+
+<div class="padding-jsp" style="color: white;">
+<img src="{path}images/r2.png" style="margin-top:35px;position:absolute;padding-left:30px;z-index:20;">
+
+</div></div>

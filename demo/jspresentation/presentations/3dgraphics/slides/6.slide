@@ -1,0 +1,18 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+<div class="padding-jsp" style="color: white;">
+
+<span style="font-size:28px;padding-left:30px;color:#ffff00">Аналитическая графика</span><br>
+<img src="{path}images/r2.png" style="margin-top:25px;position:absolute;padding-left:30px;">
+
+<div style="margin-top:80px;margin-left:30px;position:absolute;font-size:28px;">
+<ul>
+<li>В АГ объекты задаются аналитически, т.е. формулами.<br><br></li>
+<li>Например: шар радиуса r 
+с центром в точке (x0,y0,z0 ):<br>
+<span style="color:#ff6600">(x-x0)2 +(y-y0)2 +(z-z0)2 =r2</span>
+</li>
+</ul>
+</div>
+
+</div></div>
+

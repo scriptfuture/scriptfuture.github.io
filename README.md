@@ -7,4 +7,5 @@
 
 ### JSPresentation
 
+[Демо-версия](./demo/jspresentation/)
 [Ссылка на GitHub](https://github.com/scriptfuture/jspresentation)

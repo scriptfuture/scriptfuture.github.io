@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+
+	<link type="text/css" rel="stylesheet" href="jspresentation.css"/>
+	
+  <script type="text/javascript" src="jquery-1.9.1.min.js"></script> 
+  
+  <script type="text/javascript" src="cozystyle.js"></script>
+  
+  <script type="text/javascript" src="jquery.scrollTo-min.js"></script> 
+  
+  <script type="text/javascript" src="jspresentation.js"></script>
+  
+	<script type="text/javascript">
+  
+  $(document).ready(function(){
+
+	 jspresentation.init();
+	   
+  });
+  
+	</script>
+  
+  <title>JSPresentation</title>
+  </head>
+  <body>
+
+  
+ <h1>Система презентаций на Javascript, JQuery</h1>
+ 
+<p><b>Тестовые презентации:</b></p>  
+
+<p><a href="#" data-path="presentations/philosophy/" rel="jspresentation">Национальные особенности русской философии</a></p>
+
+<p><a href="#" data-path="presentations/landshaft/" rel="jspresentation">Ландшафт и природные явления (детская презентация)</a></p>
+
+<p><a href="#" data-path="presentations/3dgraphics/" rel="jspresentation">Трёхмерная графика</a></p>
+
+<br>
+<p><b>Описание:</b></p>  
+
+<p>Скипт презентации сделан в виде клиент-серверного приложения.</p>
+
+<p>Каждая презентация находится в своём каталоге в виде набора файлов-шаблонов.</p>
+<p>1 слайд - это 2 файла: превью и код слайда + изображения слайда.</p>
+<p>Файл-шаблон - это просто текстовый документ с html-кодом, в файле с расширением .slide</p>
+<p>В корне каталога каждой презентации есть файл с именем manifest.xml, в нём содержатся список всех файлов презентации.</p>
+
+
+
+
+  </body>
+</html>

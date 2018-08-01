@@ -1,0 +1,17 @@
+<div class="bg-jsp" style="background: url({path}images/bg.jpg) no-repeat black;">
+
+<img src="{path}images/r5.png" style="margin-top:200px;margin-left:50px;position:absolute;">
+
+<div class="padding-jsp" style="color: white;">
+
+<span style="font-size:28px;padding-left:30px;color:#ffff00">Полигональная графика</span><br>
+<img src="{path}images/r2.png" style="margin-top:25px;position:absolute;padding-left:30px;">
+
+<div style="margin-top:0px;margin-left:100px;position:absolute;font-size:18px;">
+<ul>
+<li>Объект задается набором полигонов. Полигон - это плоский многоугольник. Каждый полигон задается набором точек. 3-мерный объект  задается как массив или структура.
+ </li>
+</ul>
+</div>
+
+</div></div>
