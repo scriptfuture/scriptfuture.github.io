@@ -23,7 +23,7 @@
 
 Галерея для просмотра фотографий на сайтах
 
-* [Демо-версия](./demo/pulsargallery/examples/)
+* [Демо-версия](./demo/pulsargallery/examples/index.html)
 * [Ссылка на GitHub](https://github.com/scriptfuture/pulsargallery)
 
 
