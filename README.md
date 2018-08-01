@@ -1,20 +1,18 @@
 Мои проекты и демо-версии
 
 
-JSPresentation
+Sprite Animator
 -----------------------------------
 
-Скипт презентации сделан в виде клиент-серверного приложения.
+Cоздан для анимации любого набора изображений, в форматах jpg, png, gif. 
 
-* [Демо-версия](./demo/jspresentation/)
-* [Ссылка на GitHub](https://github.com/scriptfuture/jspresentation)
+* [Демо-версия](./demo/spriteanimator/demo/index.html)
+* [Ссылка на GitHub](https://github.com/scriptfuture/spriteanimator)
 
 
 #### Скриншоты
 
-![Скриншот 1](./screenshots/jspresentation/jspr-0.png)
-![Скриншот 2](./screenshots/jspresentation/jspr-1.png)
-
+![Скриншот 1](./screenshots/spriteanimator/sa-0.png)
 
 Pulsar Gallery
 -----------------------------------
@@ -33,16 +31,29 @@ Pulsar Gallery
 ![Скриншот 4](./screenshots/pulsargallery/pg-3.png)
 
 
-Sprite Animator
+SNChat
 -----------------------------------
 
-Cоздан для анимации любого набора изображений, в форматах jpg, png, gif. 
+Чат на Node.js, MongoDB, Socket.IO
 
-* [Демо-версия](./demo/spriteanimator/demo/index.html)
-* [Ссылка на GitHub](https://github.com/scriptfuture/spriteanimator)
+* [Ссылка на GitHub](https://github.com/scriptfuture/snchat)
+
+
+#### Скриншот
+
+![Скриншот](./screenshots/snchat/screenshot.png)
+
+
+JSPresentation
+-----------------------------------
+
+Скипт презентации сделан в виде клиент-серверного приложения.
+
+* [Демо-версия](./demo/jspresentation/)
+* [Ссылка на GitHub](https://github.com/scriptfuture/jspresentation)
 
 
 #### Скриншоты
 
-![Скриншот 1](./screenshots/spriteanimator/sa-0.png)
-![Скриншот 2](./screenshots/spriteanimator/pg-1.png)
+![Скриншот 1](./screenshots/jspresentation/jspr-0.png)
+![Скриншот 2](./screenshots/jspresentation/jspr-1.png)
