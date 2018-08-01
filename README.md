@@ -3,7 +3,8 @@ ScriptFuture.github.io
 
 Мои проекты и демо-версии
 
-***
+
+
 JSPresentation
 -----------------------------------
 
@@ -18,7 +19,8 @@ JSPresentation
 ![Скриншот 1](./screenshots/jspresentation/jspr-0.png)
 ![Скриншот 2](./screenshots/jspresentation/jspr-1.png)
 
-***
+
+
 Pulsar Gallery
 -----------------------------------
 
