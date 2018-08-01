@@ -1,4 +1,10 @@
 # scriptfuture.github.io
+Сайт-сборник проектов
 
-h2 Мои проекты и демо-версии
+
+Мои проекты и демо-версии
 -----------------------------------
+
+### JSPresentation
+
+[Ссылка на GitHub](https://github.com/scriptfuture/jspresentation)
