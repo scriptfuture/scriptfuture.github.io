@@ -8,4 +8,10 @@
 ### JSPresentation
 
 [Демо-версия](./demo/jspresentation/)
+***
 [Ссылка на GitHub](https://github.com/scriptfuture/jspresentation)
+***
+
+#### Скриншоты
+
+![screenshot of sample](./screenshots/jspresentation/jspr-1.png)
