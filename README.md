@@ -1,4 +1,4 @@
-# scriptfuture.github.io
+# ScriptFuture.github.io
 Сайт-сборник проектов
 
 
