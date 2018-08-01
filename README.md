@@ -14,4 +14,4 @@
 
 #### Скриншоты
 
-![screenshot of sample](./screenshots/jspresentation/jspr-1.png)
+![./screenshots/jspresentation/jspr-1-mini.png](./screenshots/jspresentation/jspr-1.png)
